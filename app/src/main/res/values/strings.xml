@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBindingDemoProject</string>
+    <string name="base_url">baseUrl</string>
+</resources>
